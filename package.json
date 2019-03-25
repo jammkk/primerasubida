@@ -1,0 +1,22 @@
+{
+  "name": "repo",
+  "version": "1.0.1",
+  "description": "primero",
+  "main": "calculo.js",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jaiminho jammkk@jaiminho.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "first"
+  },
+  "keywords": [
+    "abc123"
+  ]
+}
